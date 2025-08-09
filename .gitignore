@@ -1,11 +1,11 @@
 # Build and Release Folders
-bin-debug/
-bin-release/
-[Oo]bj/
-[Bb]in/
+bin-debug/"character"
+bin-release/"Click"
+[Oo]bj/"Dialog-text"
+[Bb]in/"Texr-bubble"
 
 # Other files and folders
-.settings/
+.settings/"IMG-0000"
 
 # Executables
 *.swf
